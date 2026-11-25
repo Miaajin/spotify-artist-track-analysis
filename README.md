@@ -13,7 +13,7 @@
              text-align: left;
              line-height: 1.3;
              margin: 0;">
-    Exploring Artist Following and Track Popularity on Spotify
+    Average Spotify Track Popularity: Explicit vs. Non-Explicit
   </h1>
 
 </div>
