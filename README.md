@@ -13,7 +13,7 @@
              text-align: left;
              line-height: 1.3;
              margin: 0;">
-    Beyond the Streams: Exploring Explicit Content and Artist Popularity on Spotify
+    Exploring Artist Following and Track Popularity on Spotify
   </h1>
 
 </div>
